@@ -3,13 +3,17 @@ I’m a full-stack developer with a strong focus on backend development. I have 
 I’m passionate about solving problems through technology, exploring new tools, and collaborating on projects that deliver real value. I thrive in team environments and enjoy optimizing processes to achieve efficient, effective results
 ## 🛠️ Technologies
 Here are some of the technologies, tools, and platforms I’ve worked with.
+
 ### 🌐 Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,bootstrap)](https://skillicons.dev)
+
 ### ⚙️ Backend
 ![C#](https://skillicons.dev/icons?i=cs) <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" height="40"/>
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,python)](https://skillicons.dev)
+
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<img src="https://cdn.simpleicons.org/mariadb/003545" width="40" height="40"/>
+
 ### 💻 Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)
 
