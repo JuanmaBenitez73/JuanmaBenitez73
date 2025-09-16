@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Juanma 👋
+I’m a full-stack developer with a strong focus on backend development. I have hands-on experience with C#, .NET, SQL, HTML, CSS, and JavaScript, and I’ve also worked with Python, PHP, Symfony, and Blazor.
+I’m passionate about solving problems through technology, exploring new tools, and collaborating on projects that deliver real value. I thrive in team environments and enjoy optimizing processes to achieve efficient, effective results
+## 🛠️ Technologies
+Here are some of the technologies, tools, and platforms I’ve worked with.
+### 🌐 Frontend
 
 <!--
 **JuanmaBenitez73/JuanmaBenitez73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
