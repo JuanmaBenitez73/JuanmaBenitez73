@@ -4,6 +4,7 @@ I’m passionate about solving problems through technology, exploring new tools,
 ## 🛠️ Technologies
 Here are some of the technologies, tools, and platforms I’ve worked with.
 ### 🌐 Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,bootstrap)](https://skillicons.dev)
 
 <!--
 **JuanmaBenitez73/JuanmaBenitez73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
