@@ -17,6 +17,14 @@ Here are some of the technologies, tools, and platforms I’ve worked with.
 ### 💻 Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)
 
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanmaBenitez73&layout=donut&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanmaBenitez73&show_icons=true&theme=dark)
+
+## 📫 Contact
+Get in touch with me:
+- 📧 [benitezjuanma25@gmail.com](mailto:benitezjuanma25@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juanma-benítez-691688326/)
 
 
 <!--
