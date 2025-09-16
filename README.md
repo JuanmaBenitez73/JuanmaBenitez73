@@ -5,6 +5,13 @@ I’m passionate about solving problems through technology, exploring new tools,
 Here are some of the technologies, tools, and platforms I’ve worked with.
 ### 🌐 Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,bootstrap)](https://skillicons.dev)
+### ⚙️ Backend
+![C#](https://skillicons.dev/icons?i=cs)<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,bootstrap)](https://skillicons.dev)
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<img src="https://cdn.simpleicons.org/mariadb/003545" width="40" height="40"/>
+### 💻 Tools & Others
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,pycharm,postman)](https://skillicons.dev)
 
 <!--
 **JuanmaBenitez73/JuanmaBenitez73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
